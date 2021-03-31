@@ -18,7 +18,7 @@ Here is a playable version of my game:
 [Return to home page](./)
 
 <div>
-  <div class="webgl-content">
+  <div class="webgl-content" style="margin-top: 50px">
     <div id="unityContainer" style="width: 960px; height: 600px"></div>
     <div class="footer">
       <div class="webgl-logo"></div>
